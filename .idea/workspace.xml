@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0b5cfde-6517-4be0-90f8-ec675536891d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/olbati/romanNumerals/RomanNumerals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/olbati/romanNumerals/RomanNumeralsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bizz</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/romanNumeralsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/olbati/romanNumerals/romanNumeralsTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/olbati/romanNumeralsTest/RomanNumerals.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/olbati/romanNumeralsTest/RomanNumeralsTest.java" />
+        <option value="$PROJECT_DIR$/../fizz-buzz/src/main/java/com/olbati/fizzbuzz/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/olbati/romanNumerals/RomanNumeralsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/olbati/romanNumerals/RomanNumerals.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RomanNumeralsTest">
+    <configuration name="RomanNumerals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olbati.romanNumerals.RomanNumerals" />
+      <module name="romanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olbati.romanNumerals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="romanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olbati.romanNumerals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.olbati.romanNumerals" />
+      <option name="MAIN_CLASS_NAME" value="com.olbati.romanNumerals.RomanNumeralsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest.should_return_1_if_input_is_I" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="romanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olbati.romanNumerals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.olbati.romanNumerals" />
+      <option name="MAIN_CLASS_NAME" value="com.olbati.romanNumerals.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="should_return_1_if_input_is_I" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest.should_return_good_roman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="romanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olbati.romanNumerals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.olbati.romanNumerals" />
+      <option name="MAIN_CLASS_NAME" value="com.olbati.romanNumerals.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="should_return_good_roman" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest.should_return_input_if_input_is_not_divisible_by_3_and_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="romanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olbati.romanNumerals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.olbati.romanNumerals" />
+      <option name="MAIN_CLASS_NAME" value="com.olbati.romanNumerals.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="should_return_input_if_input_is_not_divisible_by_3_and_5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RomanNumeralsTest" />
+        <item itemvalue="JUnit.RomanNumeralsTest.should_return_good_roman" />
+        <item itemvalue="Application.RomanNumerals" />
+        <item itemvalue="JUnit.RomanNumeralsTest.should_return_input_if_input_is_not_divisible_by_3_and_5" />
+        <item itemvalue="JUnit.RomanNumeralsTest.should_return_1_if_input_is_I" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0b5cfde-6517-4be0-90f8-ec675536891d" name="Default Changelist" comment="" />
+      <created>1560243368836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560243368836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RomanNumeralsTest - 2019.06.24 at 09h 58m 15s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest - 2019.06.24 at 11h 00m 44s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest - 2019.06.24 at 11h 05m 30s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest - 2019.06.24 at 11h 12m 45s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest_should_return_good_roman - 2019.06.24 at 12h 09m 30s.xml">
+      <configuration name="RomanNumeralsTest.should_return_good_roman" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest - 2019.06.24 at 12h 10m 13s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest - 2019.06.24 at 12h 12m 06s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest - 2019.06.25 at 15h 28m 49s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest - 2019.06.25 at 15h 29m 11s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralsTest - 2019.07.02 at 10h 34m 01s.xml">
+      <configuration name="RomanNumeralsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13004847" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04405286" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39941263" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32892805" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" visible="true" weight="0.32892805" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/romanNumeralsTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bizz-buzz/src/test/java/com/olbati/fizzbuzz/FizzBuzzTest.java" />
+    <entry file="file://$PROJECT_DIR$/../fizz-buzz/src/main/java/com/olbati/fizzbuzz/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/olbati/romanNumerals/RomanNumeralsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/olbati/romanNumerals/RomanNumerals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
